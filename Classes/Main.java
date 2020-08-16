@@ -174,11 +174,11 @@ public class Main {
 
     static void changeCards(Player p){
         System.out.println("Your cards are: " + p.cards);
-        System.out.println("How many cards do you want to change? (Permitted: 0-3)");
+        System.out.println("How many cards do you want to change? (Permitted: 0-2)");
         int per = sc.nextInt();
-        while(!(per >=0 && per <=3)){
-            System.out.println("The number of cards you can change is 0 to 3.");
-            System.out.println("How many cards do you want to change? (Permitted: 0-3)");
+        while(!(per >=0 && per <=2)){
+            System.out.println("The number of cards you can change is 0 to 2.");
+            System.out.println("How many cards do you want to change? (Permitted: 0-2)");
             per = sc.nextInt();
         }
 
