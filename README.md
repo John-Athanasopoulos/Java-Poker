@@ -1,9 +1,5 @@
 <p align="center"><img src="https://github.com/John-Athanasopoulos/Java-Poker/blob/master/Photos/quartzo-bold.png"></p>
 
-<p align="center">For any information contact me here:</p>
-
-<p align="center"><a href="mailto:john.athanasopoulos.dim@gmail.com"><img src="https://github.com/John-Athanasopoulos/Java-Poker/blob/master/Photos/gmaillogo.jpg"></a></p>
-
 A fully functional game of Texas Hold 'em Poker written solely on Java. In the game, you play against the computer, winning when you take all the avalable money (2000) and losing when you run out of money. The game offers the ability to change cards and bet, giving the betting option to the computer too.
 
 <hr>
