@@ -62,8 +62,6 @@ This is any hand which doesn't qualify as any one of the above hands. If nobody 
 
 <hr>
 
-<h5><a id="discord"></a>My Discord username:</h5>
-AT3RM0N#9001
 <h5>My Email:</h5>
 john.athanasopoulos.dim@gmail.com
 
